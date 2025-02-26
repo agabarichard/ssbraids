@@ -6179,8 +6179,8 @@ section .heading p {
 header {
   height: 100%; }
   header .carousel-item {
-    height: 100vh;
-    min-height: 300px;
+    height: 130vh;
+    min-height: auto;
     background: no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -6194,7 +6194,7 @@ header {
       width: 100%;
       height: 100%;
       display: table;
-      background: rgba(8, 8, 8, 0.5); }
+      background: rgba(8, 8, 8, 0.2); }
       header .carousel-item .home-content-box .home-content-box-inner {
         display: table-cell;
         vertical-align: middle; }
