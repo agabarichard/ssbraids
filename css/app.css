@@ -6133,7 +6133,7 @@ img::-moz-selection {
     font-family: 'Roboto', sans-serif; }
     @media (max-width: 991px) {
       .navbar .navbar-toggler {
-        margin-right: 20px; } }
+        margin-right: 20px;} }
   .navbar .collapse ul.navbar-nav li.nav-item a {
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
